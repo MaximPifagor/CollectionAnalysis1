@@ -1,0 +1,7 @@
+<dependency>
+  <groupId>com.google.guava</groupId>
+  <artifactId>guava</artifactId>
+  <version>27.0.1-jre</version>
+  <!-- or, for Android: -->
+  <version>27.0.1-android</version>
+</dependency>
